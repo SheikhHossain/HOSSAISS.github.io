@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 name: Sheikh Shafayet Hossain
 title: Bachelor of Science - Computer Science Major
 email: hossaiss@myumanitoba.ca
-website: www.github.com/sproogen/resume-theme
+website: https://sheikhhossain.github.io/HOSSAISS.github.io/
 
 # Social links
 twitter_username: SaditHossain
@@ -38,11 +38,10 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
+  Alongside my field of study some of my other interests and hobbies are:
+   - Boxing
    - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+   - Driving
 
 # Footer
 footer_show_references: true
