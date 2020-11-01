@@ -1,7 +1,3 @@
----
-layout: page
-title: SHEIKH SHAFAYET HOSSAIN
----
 # SHEIKH SHAFAYET HOSSAIN
 
 302-77 University Crescent, Winnipeg MB, R3T 3N8
