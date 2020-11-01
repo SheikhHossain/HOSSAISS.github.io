@@ -1,4 +1,4 @@
-- layout: left (options: left, right, top, top-right, top-middle)
+- layout: left #(options: left, right, top, top-right, top-middle)
   company: Company name
   link: Link to company (optional)
   jobs:
