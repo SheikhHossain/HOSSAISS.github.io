@@ -38,13 +38,15 @@ about_content: | # this will include new lines to allow paragraphs
 # Technical Skills Section
 # TechnicalSkills_title: Technical
 
-# More Section
-# more_title: A Little More About Me
-more_content: | # this will include new lines to allow paragraphs
-  Alongside my field of study some of my other interests and hobbies are:
-   - Boxing
-   - Gaming
-   - Driving
+# Technical Skills Section
+# technical_Skills_title: Programming Languages
+technical_Skils_title: | # this will include new lines to allow paragraphs
+  - Python
+  - Java
+  - C & C++
+  - HTML, CSS and JavaScript
+  - Node.js
+ 
    
 # Footer
 footer_show_references: true
