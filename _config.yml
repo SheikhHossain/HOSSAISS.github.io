@@ -36,9 +36,16 @@ about_content: | # this will include new lines to allow paragraphs
 # educaton_title: Education
 
 # Technical Skills Section
-# TechnicalSkills_title: TechnicalSkills
+# TechnicalSkills_title: Technical
 
-
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my field of study some of my other interests and hobbies are:
+   - Boxing
+   - Gaming
+   - Driving
+   
 # Footer
 footer_show_references: true
 
