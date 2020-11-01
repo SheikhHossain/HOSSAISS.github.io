@@ -1,3 +1,7 @@
+---
+layout: page
+title: SHEIKH SHAFAYET HOSSAIN
+---
 SHEIKH SHAFAYET HOSSAIN
 
 302-77 University Crescent, Winnipeg MB, R3T 3N8
@@ -16,7 +20,7 @@ SHEIKH SHAFAYET HOSSAIN
 
 * Applied Science 2017-2018
 
-    Science International College of Manitoba (Winnipeg)
+    * Science International College of Manitoba (Winnipeg)
 
 ## Required Essential Skills:
 
