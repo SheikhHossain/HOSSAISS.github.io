@@ -37,7 +37,7 @@ about_content: | # this will include new lines to allow paragraphs
 
 
 # More Section
-# more_title: Technical Skills
+more_title: Technical Skills
 more_content: | # this will include new lines to allow paragraphs
   Programming Langauges:
    - Python
