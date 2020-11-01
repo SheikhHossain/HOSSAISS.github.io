@@ -1,9 +1,0 @@
-- layout: left
-  name: Programing Langauges
-  description: | # this will include new lines to allow paragraphs
-    - Java
-    - Python
-    - C & C++
-    - HTML, CSS & JavaScript
-    - Node.js
-    
