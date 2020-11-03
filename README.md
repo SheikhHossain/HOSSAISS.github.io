@@ -103,7 +103,7 @@ Jekyll is a static site Generator. It uses texts from a markup language and uses
  
 ## More Resources
  
-[Learn MarkDown](https://helloacm.com/markdown-markup-language-quick-tutorial/)
-[GitHub Pages](https://pages.github.com)
-[Modern Technical Writin](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
+[Learn MarkDown](https://helloacm.com/markdown-markup-language-quick-tutorial/)</br>
+[GitHub Pages](https://pages.github.com)</br>
+[Modern Techbical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 
