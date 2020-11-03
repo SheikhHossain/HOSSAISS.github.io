@@ -40,7 +40,7 @@ about_content: | # this will include new lines to allow paragraphs
 
 
 # Technical Skills
-more_title: Technical Skills
+# more_title: Technical Skillssssss
 more_content: | # this will include new lines to allow paragraphs
   Programming Langauges:
    - Python
@@ -50,18 +50,6 @@ more_content: | # this will include new lines to allow paragraphs
    - Godot
    - LC3
    - Java
-
-more_title: Technical Skills
-more_content: | # this will include new lines to allow paragraphs
-  Programming Langauges:
-   - Python
-   - C & C++
-   - HTML, CSS & JavaScript
-   - Node.js
-   - Godot
-   - LC3
-   - Java
-
    
 # Footer
 footer_show_references: true
