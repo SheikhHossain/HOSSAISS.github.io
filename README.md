@@ -1,6 +1,6 @@
 # Hosting and formatting a resume using Markdown, a Markdown editor, Github pages and Jekyll.
  
-The purpose of this read me is to explain a bit about Markdown and how to use editor to write in markdown. Then we will be discussing about how we can use GitHub pages and jekyll to host an online resume. We will also discuss a bit about GitHub pages and jekyll.
+The purpose of this readme is to explain a bit about Markdown and how to use an editor to write in markdown. Then we will be discussing how we can use GitHub pages and jekyll to host an online resume. We will also discuss a bit about GitHub pages and jekyll.
  
 ## Prerequisites
  
@@ -14,13 +14,13 @@ To ensure that this README is understood properly and clearly the reader must :
 Mark down is a Markup language that is a simple, effective tool for writing and formatting text documents that will be hosted on the web. It is an alternative to HTML. Markdown is easy to learn and easy to read. It is also easily converted to many different files.
 [Here](https://helloacm.com/markdown-markup-language-quick-tutorial/) you will find more in depth about how to use markdown. Markdown is so convintent that you can use tools online to convert any PDF/word file to Markdown. Follow the [link](https://word2md.com) to do so. 
  
-## Git Hub pages
+## GitHub pages
  
-Git hub pages is a website for projects that can be directly hosted from a GitHub repository. In other words it is a hosting service that takes HTML, CSS and JavaScript form a repository on GitHub. It is completely free to use and does not contain ads.
+Github pages is a website for projects that can be directly hosted from a GitHub repository. In other words it is a hosting service that takes HTML, CSS and JavaScript form a repository on GitHub. It is completely free to use and does not contain ads.
  
 ## Jekyll
  
-Jekyll is a static site Generator. It uses texts from a markup language and uses layouts to create a static website. It is free to use and open source. It is also easier to use than most other site generator.
+Jekyll is a static site Generator. It uses texts from a markup language and uses layouts to create a static website. It is free to use and open source. It is also easier to use than most other site generators.
  
 ## How to host an online resume online:
  
@@ -34,6 +34,7 @@ Jekyll is a static site Generator. It uses texts from a markup language and uses
    > * _Step1_: Open the GitHub repository on your browser.
    > * _Step2_: Click the **_Add file_** to bring the drop down menu.
    > * _Step3_: Then from the drop down select **_Upload files_**.    
+   ![""](gif2.gif)
    > * _Step4_: -> **Option1**: Drag and drop the downloaded unzipped files from your downloads(or where you unzipped it) to the created repository.
    >
    >![""](gif1.gif)
