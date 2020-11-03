@@ -42,7 +42,7 @@ Jekyll is a static site Generator. It uses texts from a markup language and uses
    > * _Step4_: -> **Option2**: Or click **_Choose your file_** and add the un-zipped downloaded file to your GitHub repository.
    > * _Step5_: Once satisfied with the changes click **_Commit changes_**.  
 4. ### Viewing the template.
-   >![""](img3.gif)
+   >![""](gif3.gif)
    > * _Step1_: Now you can view the changes going to **_Settings_**.
    > * _Step2_: There will be a section under **_Settings_** called **_GitHub pages_**.
    > * _Step3_: Right on the second line of the section there will be a box with a link. This link is where you can see your published pages.
