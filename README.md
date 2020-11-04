@@ -1,4 +1,4 @@
-![""](resume.jpg)
+![""](resume.gif)
 # Hosting and formatting a resume using Markdown, a Markdown editor, Github pages and Jekyll.
  
 The purpose of this readme is to explain a bit about Markdown and how to use an editor to write in markdown. Then we will be discussing how we can use GitHub pages and jekyll to host an online resume. We will also discuss a bit about GitHub pages and jekyll.
