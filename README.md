@@ -91,6 +91,15 @@ Jekyll is a static site Generator. It uses texts from a markup language and uses
    > >```
 7. ### Finished
    > Now once everything is edited you can commit the change and then use the link as before to view the changes.
+   
+## Authors and Acknowledgments
+
+* Sheikh Shafayet Hossain
+* Andrew Etter
+* Aaron Salo
+* Kyle Lamoureux
+* Kevin Davis
+
 ## FAQs
  
 1. Why is Markdown better than a word processor?
