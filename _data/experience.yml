@@ -1,4 +1,31 @@
-- layout: left
+- layout: Left
+  company: Royal Bank of Canada
+  link: www.RBC.com
+  job_title: Digital Indound Fraud Officer
+  dates: October 2023 - Present
+  quote: >
+   Solving pendamic problems by helping network members resolve their food ordering concerns.
+  description: | # this will include new lines to allow paragraphs
+    Every company needs their network members satisfied to continue business with them and Skip the Dishes is no exception. I collaborated with my colleague in a fast-paced environment to handle stakeholder concerns. We provided them with tailored solutions according to their needs to better assist them while keeping their information and details confidential. I also worked on different projects to increase productivity, overall performance and helped mentor a lot of new colleagues so they can thrive in their role.  
+- layout: Left
+  company: Royal Bank of Canada
+  link: www.RBC.com
+  job_title: Fraud Analyst
+  dates: June 2023 - October 2023
+  quote: >
+   Solving pendamic problems by helping network members resolve their food ordering concerns.
+  description: | # this will include new lines to allow paragraphs
+    Every company needs their network members satisfied to continue business with them and Skip the Dishes is no exception. I collaborated with my colleague in a fast-paced environment to handle stakeholder concerns. We provided them with tailored solutions according to their needs to better assist them while keeping their information and details confidential. I also worked on different projects to increase productivity, overall performance and helped mentor a lot of new colleagues so they can thrive in their role.  
+- layout: Left
+  company: Royal Bank of Canada
+  link: www.RBC.com
+  job_title: Cards Advisor
+  dates: December 2022 - June 2023
+  quote: >
+   Solving pendamic problems by helping network members resolve their food ordering concerns.
+  description: | # this will include new lines to allow paragraphs
+    Every company needs their network members satisfied to continue business with them and Skip the Dishes is no exception. I collaborated with my colleague in a fast-paced environment to handle stakeholder concerns. We provided them with tailored solutions according to their needs to better assist them while keeping their information and details confidential. I also worked on different projects to increase productivity, overall performance and helped mentor a lot of new colleagues so they can thrive in their role.  
+- layout: Right
   company: Skip the Dishes
   link: www.skipthedishes.com
   job_title: Operations specialist
@@ -7,5 +34,8 @@
    Solving pendamic problems by helping network members resolve their food ordering concerns.
   description: | # this will include new lines to allow paragraphs
     Every company needs their network members satisfied to continue business with them and Skip the Dishes is no exception. I collaborated with my colleague in a fast-paced environment to handle stakeholder concerns. We provided them with tailored solutions according to their needs to better assist them while keeping their information and details confidential. I also worked on different projects to increase productivity, overall performance and helped mentor a lot of new colleagues so they can thrive in their role.  
+<<<<<<< HEAD
 
     
+=======
+>>>>>>> 9d67ab24e4b0d408613c45611de0bf76ff532511
