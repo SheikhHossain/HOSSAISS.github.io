@@ -36,12 +36,14 @@
 
 
   # Experience template
-- layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+- layout: Right
+  company: Skip the Dishes
+  link: https://www.skipthedishes.com
+  job_title: Operations specialist
+  dates: January 2020 - March 2022
   quote: >
-   Short description of the company (optional)
+   SkipTheDishes is a proud member of Just Eat Takeaway.com, a leading global online food delivery marketplace. Every day, Skip the Dishes connects millions of Canadians in over 250 cities to nearly 47,000 restaurant partners across the country. 
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    Exceeded quantitative metrics on customer satisfaction, customer retention and resolution time by solving customer concerns.
+    Led and developed a team of customer care specialists that exceeded 90% expectations in 3 different quarters promoting healthy teamwork, written and verbal communication.
+    Worked with Jira devops to create customer concerns and escalate situations with tech professionals.
