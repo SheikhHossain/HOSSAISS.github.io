@@ -1,44 +1,53 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: Royal Bank of Canada
+  link: https://www.rbc.com/about-rbc.html
+  job_title: Digital Fraud Officer
+  dates: October 2023 - Present
   quote: >
    Royal Bank of Canada is a global financial institution with a purpose-driven, principles-led approach to delivering leading performance.
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    - Processed fraud claims by identifying fraudulent transactions, utilizing various systems and applications, and ensuring accurate filing and completion. This meticulous approach led to timely resolution and enhanced fraud prevention measures.
+    - Identified and reported potential high-risk situations to management, leading to the prevention of complex Account Takeover and Points Redemption fraud cases, thereby safeguarding the integrity of the organization's financial assets and customer accounts.
+    - Engaged clients proactively, probing and challenging them effectively to prevent potential fraud losses.
+    - Compiled clear and concise reports detailing findings related to fraud investigations.
 
 
-
-- layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+- layout: rignt
+  company: Royal Bank of Canada
+  link: https://www.rbc.com/about-rbc.html
+  job_title: Fraud Analyst
+  dates: June 2023 - October 2023
   quote: >
-   Short description of the company (optional)
+   Royal Bank of Canada is a global financial institution with a purpose-driven, principles-led approach to delivering leading performance.
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    - Reviewed potential fraud transactions and reports, discerning patterns and anomalies within extensive datasets.
+    - Compiled detailed reports summarizing findings from fraud investigations for submission and analysis.
+    - Ensured clients' accounts remained balanced by meticulous account reconciliation processes. Achieved a 98% accuracy rate in account balancing, enhancing client trust and reducing discrepancies in financial records.
+    - Managed chargeback processes for clients with Visa and Mastercard, ensuring swift resolution. Successfully reduced company loss by 2 Million Dollars as a team within the stipulated time frame, leading to decrease in comapny loss.
 
 
 
 # Experience template
-- layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+- layout: rignt
+  company: Royal Bank of Canada
+  link: https://www.rbc.com/about-rbc.html
+  job_title: Card Advisor
+  dates: December 2022 - June 2023
   quote: >
-   Short description of the company (optional)
+   Royal Bank of Canada is a global financial institution with a purpose-driven, principles-led approach to delivering leading performance.
   description: | # this will include new lines to allow paragraphs
-    Description of role
-
+    - Deliver exceptional customer service by completing transactions, engaging in needs-based conversations, and maintaining open communication with clients throughout the branch.
+    - Identify client needs and provide personalized financial advice and solutions during initial interactions, fostering strong client relationships.
+    - Contribute to team sales achievements by actively listening and identifying opportunities to offer additional advice, introduce clients to RBC partners' capabilities, and personally deliver client solutions.
+    - Resolve client concerns promptly at the first point of contact, enhancing customer satisfaction and loyalty. Achieved an 85% resolution rate, ensuring swift and effective solutions.
+    - Educate and assist clients in utilizing RBC digital capabilities, promoting self-service options and enhancing client digital literacy.
+    - Manage risks effectively by strictly adhering to compliance routines, processes, and controls. Upheld client and shareholder interests by ensuring meticulous transactional compliance and adherence to regulatory guidelines.
 
   # Experience template
 - layout: right
   company: Skip the Dishes
-  link: https://www.skipthedishes.com
+  link: https://www.skipthedishes.com/about
   job_title: Operations specialist
   dates: January 2020 - March 2022
   quote: >
