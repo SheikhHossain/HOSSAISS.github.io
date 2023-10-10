@@ -17,7 +17,7 @@
     This is the very fist HTML and CSS project I worked on.
   description: | # this will include new lines to allow paragraphs
     - Description:
-    > Developed a responsive and visually appealing online portfolio website using React.js, HTML, CSS, and JavaScript. The website serves as a showcase of my technical skills, creativity, and project experiences. It features a modern and user-friendly design, optimized for various devices and screen sizes. Implemented interactive elements and smooth animations to enhance user engagement and provide a seamless browsing experience.
+      - Developed a responsive and visually appealing online portfolio website using React.js, HTML, CSS, and JavaScript. The website serves as a showcase of my technical skills, creativity, and project experiences. It features a modern and user-friendly design, optimized for various devices and screen sizes. Implemented interactive elements and smooth animations to enhance user engagement and provide a seamless browsing experience.
     - Technologies Used:
       - Frontend: React.js, HTML5, CSS3, JavaScript
       - Tools: Visual Studio Code, Git, GitHub Pages (for deployment)
