@@ -96,10 +96,6 @@ Jekyll is a static site Generator. It uses texts from a markup language and uses
 ## Authors and Acknowledgments
 
 * Sheikh Shafayet Hossain
-* Andrew Etter
-* Aaron Salo
-* Kyle Lamoureux
-* Kevin Davis
 
 ## FAQs
  
