@@ -13,7 +13,7 @@
     - Compiled clear and concise reports detailing findings related to fraud investigations.
 
 
-- layout: rignt
+- layout: right
   company: Royal Bank of Canada
   link: https://www.rbc.com/about-rbc.html
   job_title: Fraud Analyst
@@ -29,7 +29,7 @@
 
 
 # Experience template
-- layout: right
+- layout: left
   company: Royal Bank of Canada
   link: https://www.rbc.com/about-rbc.html
   job_title: Card Advisor
