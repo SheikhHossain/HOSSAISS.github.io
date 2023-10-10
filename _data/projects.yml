@@ -6,3 +6,14 @@
     This is the very fist HTML and CSS project I worked on.
   description: | # this will include new lines to allow paragraphs
     This is a project from one of my course, my team and I were to work on the project. This project helped me know myself and my limits to which I can perform and suceed. 
+
+
+
+- layout: top-middle
+  name: Portfolio website
+  link: github.com/sproogen
+  github: sproogen/resume-theme
+  quote: >
+    This is the very fist HTML and CSS project I worked on.
+  description: | # this will include new lines to allow paragraphs
+    Developed a responsive and visually appealing online portfolio website using React.js, HTML, CSS, and JavaScript. The website serves as a showcase of my technical skills, creativity, and project experiences. It features a modern and user-friendly design, optimized for various devices and screen sizes. Implemented interactive elements and smooth animations to enhance user engagement and provide a seamless browsing experience.
