@@ -22,10 +22,8 @@
   name: Movie booking application(Android App)
   github: github.com/SheikhHossain/Ixalan
   quote: >
-    This is the very fist HTML and CSS project I worked on.
+    Led the development of a feature-rich Android Movie Booking App, demonstrating expertise in Git version control, Android Studio, MySQL, and Java Object-Oriented programming. Collaborated closely with stakeholders, delivering tailored and efficient features that enhanced user experience and streamlined the booking process. Applied agile software development methodologies, including DRY, Separation of Concerns, Principle of Least Knowledge, and SOLID Principles, ensuring robust design solutions.
   description: | # this will include new lines to allow paragraphs
-    - Description:
-      - Led the development of a feature-rich Android Movie Booking App, demonstrating expertise in Git version control, Android Studio, MySQL, and Java Object-Oriented programming. Collaborated closely with stakeholders, delivering tailored and efficient features that enhanced user experience and streamlined the booking process. Applied agile software development methodologies, including DRY, Separation of Concerns, Principle of Least Knowledge, and SOLID Principles, ensuring robust design solutions.
     - Technologies Used:
       - Programming Langauge: Java 
       - Developement Tools: Android Studio, Git
@@ -46,10 +44,8 @@
   link: https://sheikhhossain.github.io/Portfolio
   github: github.com/SheikhHossain/Portfolio
   quote: >
-    This is the very fist HTML and CSS project I worked on.
+    Developed a responsive and visually appealing online portfolio website using React, HTML, CSS, and JavaScript. The website serves as a showcase of my technical skills, creativity, and project experiences. It features a modern and user-friendly design, optimized for various devices and screen sizes. Implemented interactive elements and smooth animations to enhance user engagement and provide a seamless browsing experience.
   description: | # this will include new lines to allow paragraphs
-    - Description:
-      - Developed a responsive and visually appealing online portfolio website using React, HTML, CSS, and JavaScript. The website serves as a showcase of my technical skills, creativity, and project experiences. It features a modern and user-friendly design, optimized for various devices and screen sizes. Implemented interactive elements and smooth animations to enhance user engagement and provide a seamless browsing experience.
     - Technologies Used:
       - Frontend: React, HTML5, CSS3, JavaScript
       - Tools: Visual Studio Code, Git, GitHub Pages (for deployment)
