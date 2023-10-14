@@ -1,25 +1,60 @@
 - layout: top-middle
   name: Customer End food ordering application(website)
-  link: github.com/sproogen
-  github: sproogen/resume-theme
-  quote: >
-    This is the very fist HTML and CSS project I worked on.
-  description: | # this will include new lines to allow paragraphs
-    This is a project from one of my course, my team and I were to work on the project. This project helped me know myself and my limits to which I can perform and suceed. 
-
-
-
-- layout: top-middle
-  name: Portfolio website
-  link: github.com/sproogen
-  github: sproogen/resume-theme
+  link: sheikhhossain.github.io/TechTakeaway
+  github: github.com/SheikhHossain/TechTakeaway
   quote: >
     This is the very fist HTML and CSS project I worked on.
   description: | # this will include new lines to allow paragraphs
     - Description:
-      - Developed a responsive and visually appealing online portfolio website using React.js, HTML, CSS, and JavaScript. The website serves as a showcase of my technical skills, creativity, and project experiences. It features a modern and user-friendly design, optimized for various devices and screen sizes. Implemented interactive elements and smooth animations to enhance user engagement and provide a seamless browsing experience.
+      - Developed a dynamic and responsive online food ordering website using HTML, CSS, and JavaScript. The website enables users to browse a variety of restaurants, view menus, place orders, and make secure online payments. Implemented an intuitive user interface for seamless navigation and a visually appealing design to enhance the user experience. Utilized JavaScript for interactive elements, ensuring a smooth ordering process and dynamic content updates.
     - Technologies Used:
-      - Frontend: React.js, HTML5, CSS3, JavaScript
+      - Frontend: HTML5, CSS3, JavaScript
+      - Tools: Visual Studio Code, Git
+    - Key Features:
+      - User-Friendly Interface: Designed an intuitive and visually appealing interface to enhance user experience and encourage engagement.
+      - Dynamic Content: Implemented dynamic content loading using JavaScript, allowing real-time updates of menus, prices, and restaurant information without reloading the entire page.
+      - Order Placement: Enabled users to add items to their cart, modify quantities, and place orders securely through a simplified checkout process with help of cookies.
+      - Responsive Design: Ensured the website's responsiveness across various devices, including desktops, tablets, and smartphones, for a seamless user experience.
+    - Achievements:
+      - Successfully created a fully functional online food ordering platform, streamlining the ordering process for users and improving restaurant efficiency.
+      - Received positive feedback from users regarding the website's ease of use and smooth ordering experience.
+      - Enhanced the website's performance and user engagement through efficient frontend development techniques.
+
+- layout: top-middle
+  name: Movie booking application(Android App)
+  link: sheikhhossain.github.io/TechTakeaway
+  github: github.com/SheikhHossain/Ixalan
+  quote: >
+    This is the very fist HTML and CSS project I worked on.
+  description: | # this will include new lines to allow paragraphs
+    - Description:
+      - Led the development of a feature-rich Android Movie Booking App, demonstrating expertise in Git version control, Android Studio, MySQL, and Java Object-Oriented programming. Collaborated closely with stakeholders, delivering tailored and efficient features that enhanced user experience and streamlined the booking process. Applied agile software development methodologies, including DRY, Separation of Concerns, Principle of Least Knowledge, and SOLID Principles, ensuring robust design solutions.
+    - Technologies Used:
+      - Programming Langauge: Java 
+      - Developement Tools: Android Studio, Git
+    - Key Features:
+      - Version Control and Collaboration: Managed the project using Git version control, ensuring seamless collaboration with team members and stakeholders.      
+      - Stakeholder Engagement: Worked closely with stakeholders to identify requirements, providing feasible solutions and tailored features to meet their needs effectively.
+      - Iterative Development: Implemented an iterative development strategy, refining app features based on user feedback and evolving requirements.      
+      - Test-Driven Development (TDD): Applied TDD principles to ensure extensive test coverage and high-quality code. Utilized test doubles like stubs and mocks to replace dependencies for rigorous testing.
+      - UI Optimization: Optimized the user interface and performance using diverse systems, ensuring an agile and flexible app that delivers a superior user experience.
+    - Achievements:
+      - Successfully developed and launched the Android Movie Booking App, receiving positive feedback for its intuitive interface, efficient features, and seamless performance.
+      - Demonstrated exceptional problem-solving skills by applying agile methodologies and solid design principles, resulting in a highly functional and user-centric application.
+      - Recognized for implementing efficient error-handling strategies and ensuring extensive test coverage, leading to a robust and reliable app.
+
+
+- layout: top-middle
+  name: Portfolio website
+  link: https://sheikhhossain.github.io/Portfolio
+  github: github.com/SheikhHossain/Portfolio
+  quote: >
+    This is the very fist HTML and CSS project I worked on.
+  description: | # this will include new lines to allow paragraphs
+    - Description:
+      - Developed a responsive and visually appealing online portfolio website using React, HTML, CSS, and JavaScript. The website serves as a showcase of my technical skills, creativity, and project experiences. It features a modern and user-friendly design, optimized for various devices and screen sizes. Implemented interactive elements and smooth animations to enhance user engagement and provide a seamless browsing experience.
+    - Technologies Used:
+      - Frontend: React, HTML5, CSS3, JavaScript
       - Tools: Visual Studio Code, Git, GitHub Pages (for deployment)
     - Key Features:
       - Responsive Design: Ensured seamless user experience across desktops, tablets, and smartphones through responsive design principles.
