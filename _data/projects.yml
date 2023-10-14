@@ -3,10 +3,8 @@
   link: sheikhhossain.github.io/TechTakeaway
   github: github.com/SheikhHossain/TechTakeaway
   quote: >
-    This is the very fist HTML and CSS project I worked on.
+    Developed a dynamic and responsive online food ordering website using HTML, CSS, and JavaScript. The website enables users to browse a variety of restaurants, view menus, place orders, and make secure online payments. Implemented an intuitive user interface for seamless navigation and a visually appealing design to enhance the user experience. Utilized JavaScript for interactive elements, ensuring a smooth ordering process and dynamic content updates.
   description: | # this will include new lines to allow paragraphs
-    - Description:
-      - Developed a dynamic and responsive online food ordering website using HTML, CSS, and JavaScript. The website enables users to browse a variety of restaurants, view menus, place orders, and make secure online payments. Implemented an intuitive user interface for seamless navigation and a visually appealing design to enhance the user experience. Utilized JavaScript for interactive elements, ensuring a smooth ordering process and dynamic content updates.
     - Technologies Used:
       - Frontend: HTML5, CSS3, JavaScript
       - Tools: Visual Studio Code, Git
@@ -22,7 +20,6 @@
 
 - layout: top-middle
   name: Movie booking application(Android App)
-  link: sheikhhossain.github.io/TechTakeaway
   github: github.com/SheikhHossain/Ixalan
   quote: >
     This is the very fist HTML and CSS project I worked on.
